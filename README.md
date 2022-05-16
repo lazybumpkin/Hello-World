@@ -1,2 +1,4 @@
 # Hello-World
-Hey I'm @lazybupmkin. I am interested in every kind of programming language there is and to learn them all to my best.
+Hey I'm @lazybupmkin.
+A beginner at digital world,
+trying to learn all I can.
